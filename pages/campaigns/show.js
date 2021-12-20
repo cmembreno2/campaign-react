@@ -43,7 +43,7 @@ class CampaignShow extends Component {
         header: minimumContribution,
         meta: "Minimum Contribution (ether)",
         description:
-          "You must contribute at least this much wei to become an approver",
+          "You must contribute at least this much ether to become an approver",
       },
       {
         header: requestsCount,
